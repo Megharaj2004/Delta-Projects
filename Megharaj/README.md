@@ -1,4 +1,4 @@
-//Added a project 
+# Added a project 
 Flipkart Clone
 
 Cloned the flipkart's homepage.
